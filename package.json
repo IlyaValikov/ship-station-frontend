@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://IlyaValikov.github.io/ship-station-frontend",
+  "homepage": "https://ilyavalikov.github.io/ship-station-frontend",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
